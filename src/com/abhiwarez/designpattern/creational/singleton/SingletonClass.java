@@ -1,4 +1,4 @@
-package com.abhiwarez.designpattern.creational;
+package com.abhiwarez.designpattern.creational.singleton;
 
 import java.io.Serializable;
 
